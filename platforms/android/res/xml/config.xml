@@ -3,7 +3,7 @@
     <feature name="InAppBrowser">
         <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
     </feature>
-    <name>SINACOE</name>
+    <name>CNAE</name>
     <description>
         A blank PhoneGap app.
     </description>
